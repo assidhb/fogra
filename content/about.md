@@ -10,7 +10,9 @@ One morning, when Gregor Samsa woke from troubled dreams, he found himself _tran
 
 ### The bedding was hardly able to cover it
 
-It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer a solid fur muff into which her entire forearm disappeared..
+It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer a solid fur muff into which her entire forearm disappeared.
+
+![Une illustration](../../img/illu-04.jpg)
 
 ### Things we know about Gregor's sleeping habits
 

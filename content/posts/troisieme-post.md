@@ -1,12 +1,14 @@
 +++
-title = 'Troisieme Post'
+title = 'Troisième Post'
 date = 2023-10-21T22:50:40+02:00
 draft = false
 +++
 
-Citharae pedibus qua colorem est? Sit qui inque morsibus, templi. Gaudia
+Le troisième post évoque le thème de pedibus qua colorem est? Sit qui inque morsibus, templi. Gaudia
 aequaverit vocantem: patrem verus Petraei, ne nec et caesariem in muneris,
 repetitaque quo, mihi secundis.
+
+![Une illustration](../../img/illu-01.jpg)
 
 ## Certe ille turba cuspide scopulum
 

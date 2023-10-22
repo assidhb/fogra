@@ -1,12 +1,14 @@
 +++
-title = 'Deuxieme Post'
+title = 'Deuxième Post'
 date = 2023-10-21T22:50:06+02:00
 draft = false
 +++
 
-Adgrediare vittisconcutiens linquit habitantque _fuit insignia venistis_: luctus
+Voici le deuxième post vittisconcutiens linquit habitantque _fuit insignia venistis_: luctus
 te facis inponere deorum. Hic vulnera habet, causam, Amathusiacasque tanta nec
 Theseus, ad namque pronos, magnum **Taurusque**.
+
+![Une illustration](../../img/illu-02.jpg)
 
 ## Pro sanguine ut honore colla ulli
 
